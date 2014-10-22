@@ -1,7 +1,0 @@
----
-layout: post
-title: "I am VMTer"
-date: 2014-10-22 13:31:18 +0800
-comments: true
-categories: 
----
